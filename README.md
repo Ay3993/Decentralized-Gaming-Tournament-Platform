@@ -1,3 +1,4 @@
+![Screenshot (11)](https://github.com/user-attachments/assets/75f9b7b2-225b-4350-a989-f78d1c433786)
 # Decentralized Gaming Tournament Platform
 
 ## Project Description
